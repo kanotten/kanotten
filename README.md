@@ -35,7 +35,7 @@ Even trying to create my own systems.
 Here are some of the projects I've worked on during my training. Feel free to check them out:
 
 - **Project-exam1** Creating a blogpage for a company ( tech company ) [View Project](https://github.com/kanotten/Projectexam-1)
-- **agency:** Make a photo-studio page. [View Project](#https://github.com/kanotten/Agency1-frame)
+- **agency:** Make a photo-studio page. [View Project](https://github.com/kanotten/Agency1-frame)
 - **Science senter:** Science museum website for kids. [View Project](https://github.com/kanotten/science-center-CA)
 
 More projects will be added as I progress in my front-end adventure
