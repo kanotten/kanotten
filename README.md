@@ -11,7 +11,7 @@ i will partake in backend courses starting from 20.07.24 The plan is to
 - Responsive Web Design with CSS
 - User Interface Design using Figma
 - bash terminal
-- Rust ( early stages ) 
+- Golang ( early stages ) 
 
 💬 **Ask Me About:** 
 Feel free to ask me about web development, any of my projects, or collaboration opportunities.
