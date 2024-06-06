@@ -21,13 +21,7 @@ Feel free to ask me about web development, any of my projects, or collaboration 
 - LinkedIn: [Kenneth](linkedin.com/in/kenneth-sheikh-534b82271)
 
  
-
-⚡ **Fun Fact:**
- I used to own and manage restaurants. as it may have nothing to to with coding, it is what created the passion for coding.
- As i was always intigued by the systems of ordering, organising and feedback monitoring. making it easier and more effective.
-Even trying to create my own systems. 
-
-
+---
 
 
 ## Projects
