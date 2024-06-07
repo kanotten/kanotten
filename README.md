@@ -17,7 +17,7 @@ i will partake in backend courses starting from 20.07.24 The plan is to
 Feel free to ask me about web development, any of my projects, or collaboration opportunities.
 
 📫 **How to Reach Me:**
-- Portfolio website: [Work in progress](#)
+- Portfolio website: [Work in progress](https://kenshe-portfolio.netlify.app)
 - LinkedIn: [Kenneth](linkedin.com/in/kenneth-sheikh-534b82271)
 
  
