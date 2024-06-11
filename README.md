@@ -4,7 +4,7 @@ I'm a Front-End Developer in Training at Noroff Vocational School, Oslo, Norway.
 
 🔭 **What I'm Working On:** 
 I am currently focused on mastering Front-End Development, enhancing my skills in HTML5, CSS3, JavaScript, and Figma.
-i will partake in backend courses starting from 20.07.24 The plan is to 
+i will partake in backend courses starting from 20.07.24 i want to be able to handle both back/Front- end. 
 
 📚 **I'm Currently Learning:**
 - JavaScript 
